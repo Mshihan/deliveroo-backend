@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "shihan",
+    "password": "root",
+    "database": "deliveroo",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
